@@ -1,0 +1,47 @@
+============================================================
+        SECURITY ASSESSMENT REPORT
+============================================================
+
+Generated: 2026-07-15 16:10:12.576421
+
+SYSTEM INFORMATION
+------------------------------
+Hostname: DESKTOP-N4D4NFD
+IP Address: 172.26.112.1
+Operating System: Windows
+Version: 10.0.22621
+CPU: Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+RAM (GB): 3.89
+Current User: BigTee
+
+PORT SCAN RESULTS
+------------------------------
+Port 22: CLOSED
+Port 80: OPEN
+Port 443: OPEN
+Port 445: OPEN
+Port 3389: CLOSED
+Port 8080: CLOSED
+
+DNS LOOKUP
+------------------------------
+Domain: example.com
+IP Address: 172.66.147.243
+Reverse DNS: No reverse DNS record found
+
+HTTP HEADERS
+------------------------------
+URL: https://example.com
+Status Code: 200
+Server: cloudflare
+Content-Type: text/html
+Date: Wed, 15 Jul 2026 14:10:11 GMT
+Content-Length: Not Provided
+Strict-Transport-Security: Not Present
+Content-Security-Policy: Not Present
+X-Frame-Options: Not Present
+X-Content-Type-Options: Not Present
+
+============================================================
+Assessment completed successfully.
+============================================================

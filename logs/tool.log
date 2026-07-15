@@ -1,0 +1,9 @@
+2026-07-15 15:58:46 | INFO | Security Toolkit started.
+2026-07-15 15:58:46 | WARNING | This is a warning message.
+2026-07-15 15:58:46 | ERROR | This is an error message.
+2026-07-15 16:09:20 | INFO | Assessment started.
+2026-07-15 16:09:21 | INFO | System information collected.
+2026-07-15 16:09:36 | INFO | Port scan completed for localhost.
+2026-07-15 16:09:50 | INFO | DNS lookup completed for example.com.
+2026-07-15 16:10:12 | INFO | Retrieved HTTP headers from https://example.com.
+2026-07-15 16:10:12 | INFO | Report saved: reports/report_20260715_161012.txt
