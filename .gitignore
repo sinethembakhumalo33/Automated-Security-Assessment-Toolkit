@@ -1,19 +1,21 @@
-# Virtual Environment
+# Virtual environment
 venv/
 
 # Python cache
 __pycache__/
-*.pyc
+*.py[cod]
 
 # VS Code
 .vscode/
 
+# Logs
+logs/*.log
+
 # Generated reports
 reports/*.txt
 
-# Log files
-logs/*.log
-
-# OS files
-.DS_Store
+# Windows
 Thumbs.db
+
+# macOS
+.DS_Store
